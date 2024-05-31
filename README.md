@@ -127,5 +127,5 @@ rosservice call /get_last_target_coordinates
 
 ### Link to Documentation:
 ```bash
-rosservice call /get_last_target_coordinates
-``
+https://li-dia.github.io/RT2_Assignments_1_2_3/
+```
