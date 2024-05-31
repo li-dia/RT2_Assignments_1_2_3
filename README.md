@@ -124,3 +124,8 @@ Use the  `/get_last_target_coordinates` service provided by `last_target_service
 ```bash
 rosservice call /get_last_target_coordinates
 ```
+
+### Link to Documentation:
+```bash
+rosservice call /get_last_target_coordinates
+``
