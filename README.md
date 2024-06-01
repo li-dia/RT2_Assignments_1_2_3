@@ -51,14 +51,14 @@ Below are some screenshots of the interactive notebook visualizing the robot's p
    source devel/setup.bash
 2. Clone the Repository:
 ```bash
-   git clone https://github.com/li-dia/RT-Assignment2-Lidia-Loubar.git
-  cd RT-Assignment2-Lidia-Loubar
+   git clone https://github.com/li-dia/RT2_Assignments_1_2_3.git
+   cd RT2_Assignments_1_2_3
 ```
 3. Run the ROS Nodes using the Launch File:
 Execute the following command to launch the needed nodes:
 
 ```bash
-  roslaunch assignment_2_2023 assignment1.launch
+   roslaunch assignment_2_2023 assignment1.launch
 ```
 4. Open the Jupyter Notebook and run all the cells:
 ```bash
