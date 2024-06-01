@@ -31,7 +31,7 @@ This assignment involves creating a Jupyter Notebook-based user interface for th
 Below are some screenshots of the interactive notebook visualizing the robot's path and target status:
 
 ![Robot Path and Target Status](https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/0f0bd620-fd61-4364-b9dd-afaa356170c9)
-*Visualization of the robot's path and target positions, with green squares indicating reached targets and red Xs indicating not-reached targets.*
+*Visualization of the robot's path and target positions*
 
 
 ![Jupyter Notebook Widgets](https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/b3ceb29e-b48f-4bbb-a42c-024d5cffd388)
