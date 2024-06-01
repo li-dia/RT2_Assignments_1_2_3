@@ -68,6 +68,19 @@ Execute the following command to launch the needed nodes:
 5. To set the target, enter the coordinates in the Target X and Target Y widgets, then click on the "Set Goal" button. To cancel, click on the "Cancel Goal" button.
 
 ## Assignment 3: Statistical Analysis
-This assignment involves performing a statistical analysis to compare the performance of two code implementations for the first assignment of the RT1 course: my code and my colleague's code.
 
-### Key Features
+This assignment involves performing a statistical analysis to compare the performance of two code implementations for the first assignment of the RT1 course: "My Code" and "Colleague's Code".
+
+### Introduction to the Statistical Analysis
+
+In this report, a statistical analysis of the performance of two different implementations of a task, referred to as "My Code" and "Colleague's Code", is presented. The task involves placing tokens in the environment, and the aim is to determine which implementation performs better under varying conditions. The performance metrics considered include the average time required to finish the task and the success rate.
+
+To conduct the analysis, experiments were designed in which both implementations were tested with varying numbers of tokens in the environment. The elapsed time for each implementation to complete the task was recorded, and the number of successes and failures for each was tracked.
+
+### How to Access the Statistical Analysis
+
+The statistical analysis report can be found in the Jupyter Notebook `Statistical Analysis.pdf`. This notebook contains detailed explanations of the experiments conducted, the data collected, and the analysis performed.
+
+
+
+
