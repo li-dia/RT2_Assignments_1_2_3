@@ -30,26 +30,41 @@ This assignment involves creating a Jupyter Notebook-based user interface for th
 ### Visualization
 Below are some screenshots of the interactive notebook visualizing the robot's path and target status:
 
-![Robot Path Visualization](path/to/your/image1.png)
-*Visualization of the robot's path and target positions.*
+![Robot Path and Target Status](![image](https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/0f0bd620-fd61-4364-b9dd-afaa356170c9))
+*Visualization of the robot's path and target positions, with green squares indicating reached targets and red Xs indicating not-reached targets.*
 
-![Target Status Indicators](path/to/your/image2.png)
-*Green squares indicate reached targets, and red Xs indicate not-reached targets.*
+
+![Jupyter Notebook Widgets](![image](https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/b3ceb29e-b48f-4bbb-a42c-024d5cffd388)
+)
+*Buttons and text widgets for setting target coordinates and controlling the robot.*
 
 ### How to Use
-1. Open the Jupyter Notebook `RT2_Assignment2.ipynb`.
-2. Follow the instructions in the notebook to interact with the robot's position data.
+
+1. Ensure that you have set up your ROS workspace correctly.
+
+   ```bash
+   cd path/to/your/ros_workspace
+   catkin_make
+   source devel/setup.bash
+2. Clone the Repository:
+```bash
+   git clone https://github.com/li-dia/RT-Assignment2-Lidia-Loubar.git
+  cd RT-Assignment2-Lidia-Loubar
+```
+3. Run the ROS Nodes using the Launch File:
+Execute the following command to launch the needed nodes:
+
+```bash
+  roslaunch assignment_2_2023 assignment1.launch
+```
+4. Open the Jupyter Notebook and run all the cells:
+```bash
+   jupyter notebook RT2_Assignment2.ipynb
+```
+  
+5. To set the target, enter the coordinates in the Target X and Target Y widgets, then click on the "Set Goal" button. To cancel, click on the "Cancel Goal" button.
 
 ## Assignment 3: Statistical Analysis
-
 This assignment involves performing a statistical analysis to compare the performance of two code implementations for the first assignment of the RT1 course: my code and my colleague's code.
 
 ### Key Features
-- **Performance Comparison**: Statistical methods are used to compare the efficiency and effectiveness of the two code implementations.
-- **Detailed Analysis**: The analysis includes various metrics and visualizations to support the comparison.
-
-### How to Use
-1. Review the Jupyter Notebook `RT2_Assignment3_Statistical_Analysis.ipynb`.
-2. Follow the steps outlined in the notebook to understand the performance comparison.
-
-## Repository Structure
