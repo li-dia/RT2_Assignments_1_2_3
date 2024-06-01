@@ -16,7 +16,7 @@ This assignment builds upon the second assignment from the previous semester, wi
 - **GitHub Pages**: The documentation is hosted on GitHub Pages for easy access.
 
 ### Accessing the Documentation
-The generated documentation is available [here](https://your-username.github.io/your-repo-name).
+The generated documentation is available [here](https://li-dia.github.io/RT2_Assignments_1_2_3/).
 
 ## Assignment 2: Interactive Jupyter Notebook Interface
 
