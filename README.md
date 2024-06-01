@@ -27,6 +27,15 @@ This assignment involves creating a Jupyter Notebook-based user interface for th
 - **Real-Time Position Visualization**: The robot's position and path to target positions are visualized in real-time.
 - **Target Status Indicators**: Reached targets are marked with green squares, while not-reached targets are marked with red Xs.
 
+### Visualization
+Below are some screenshots of the interactive notebook visualizing the robot's path and target status:
+
+![Robot Path Visualization](path/to/your/image1.png)
+*Visualization of the robot's path and target positions.*
+
+![Target Status Indicators](path/to/your/image2.png)
+*Green squares indicate reached targets, and red Xs indicate not-reached targets.*
+
 ### How to Use
 1. Open the Jupyter Notebook `RT2_Assignment2.ipynb`.
 2. Follow the instructions in the notebook to interact with the robot's position data.
