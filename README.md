@@ -30,13 +30,16 @@ This assignment involves creating a Jupyter Notebook-based user interface for th
 ### Visualization
 Below are some screenshots of the interactive notebook visualizing the robot's path and target status:
 
-![Robot Path and Target Status](https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/0f0bd620-fd61-4364-b9dd-afaa356170c9)
-*Visualization of the robot's path and target positions*
+<p align="center">
+  <img src="https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/0f0bd620-fd61-4364-b9dd-afaa356170c9" alt="Robot Path and Target Status">
+</p>
+<p align="center"><em>Visualization of the robot's path and target positions.</em></p>
 
+<p align="center">
+  <img src="https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/b3ceb29e-b48f-4bbb-a42c-024d5cffd388" alt="Jupyter Notebook Widgets">
+</p>
+<p align="center"><em>Buttons and text widgets for setting target coordinates and controlling the robot.</em></p>
 
-![Jupyter Notebook Widgets](https://github.com/li-dia/RT2_Assignments_1_2_3/assets/118188149/b3ceb29e-b48f-4bbb-a42c-024d5cffd388)
-
-*Buttons and text widgets for setting target coordinates and controlling the robot.*
 
 ### How to Use
 
