@@ -1,6 +1,6 @@
 # Research Track 2 (RT2) Assignments
 
-This repository contains three assignments for the Research Track 2 (RT2) course. Each assignment focuses on different aspects of robotics and data analysis, ranging from enhanced documentation to interactive user interfaces and statistical performance comparisons.
+This repository contains three assignments for the Research Track 2 (RT2) course. 
 
 ## Table of Contents
 - [Assignment 1: Enhanced Documentation](#assignment-1-enhanced-documentation)
@@ -79,7 +79,7 @@ To conduct the analysis, experiments were designed in which both implementations
 
 ### How to Access the Statistical Analysis
 
-The statistical analysis report can be found in the Jupyter Notebook `Statistical Analysis.pdf`. This notebook contains detailed explanations of the experiments conducted, the data collected, and the analysis performed.
+The statistical analysis report can be found in `Statistical Analysis.pdf`. This report contains detailed explanations of the experiments conducted, the data collected, and the analysis performed.
 
 
 
